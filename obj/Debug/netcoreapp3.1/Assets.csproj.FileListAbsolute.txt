@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\Assets\Assets\bin\Debug\netcoreapp3.1\Assets.exe
+C:\Users\hp\source\repos\Assets\Assets\bin\Debug\netcoreapp3.1\Assets.deps.json
+C:\Users\hp\source\repos\Assets\Assets\bin\Debug\netcoreapp3.1\Assets.runtimeconfig.json
+C:\Users\hp\source\repos\Assets\Assets\bin\Debug\netcoreapp3.1\Assets.runtimeconfig.dev.json
+C:\Users\hp\source\repos\Assets\Assets\bin\Debug\netcoreapp3.1\Assets.dll
+C:\Users\hp\source\repos\Assets\Assets\bin\Debug\netcoreapp3.1\Assets.pdb
+C:\Users\hp\source\repos\Assets\Assets\obj\Debug\netcoreapp3.1\Assets.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\Assets\Assets\obj\Debug\netcoreapp3.1\Assets.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Assets\Assets\obj\Debug\netcoreapp3.1\Assets.AssemblyInfo.cs
+C:\Users\hp\source\repos\Assets\Assets\obj\Debug\netcoreapp3.1\Assets.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Assets\Assets\obj\Debug\netcoreapp3.1\Assets.dll
+C:\Users\hp\source\repos\Assets\Assets\obj\Debug\netcoreapp3.1\Assets.pdb
+C:\Users\hp\source\repos\Assets\Assets\obj\Debug\netcoreapp3.1\Assets.genruntimeconfig.cache
